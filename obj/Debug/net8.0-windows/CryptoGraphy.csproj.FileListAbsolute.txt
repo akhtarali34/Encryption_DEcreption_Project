@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\bin\Debug\net8.0-windows\CryptoGraphy.exe
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\bin\Debug\net8.0-windows\CryptoGraphy.deps.json
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\bin\Debug\net8.0-windows\CryptoGraphy.runtimeconfig.json
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\bin\Debug\net8.0-windows\CryptoGraphy.dll
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\bin\Debug\net8.0-windows\CryptoGraphy.pdb
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.Form1.resources
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.dll
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\refint\CryptoGraphy.dll
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.pdb
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\CryptoGraphy.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Ahmad\CryptoGraphy\obj\Debug\net8.0-windows\ref\CryptoGraphy.dll
